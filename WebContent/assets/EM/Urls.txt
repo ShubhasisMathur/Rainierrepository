@@ -1,0 +1,17 @@
+7010/dyn/admin/nucleus/att/ecom/environment/Environment/
+7010/dyn/admin/nucleus/att/ecom/wireless/filter/storepickup/rules/BOPISOnOffValidatorStorePickUpRule/
+7010/dyn/admin/nucleus//att/ecom/shopcore/configuration/WirelessIRUConfiguration/
+7010/dyn/admin/nucleus/att/ecom/services/client/CLTService/
+7010/dyn/admin/nucleus/att/ecom/shop/util/WirelessSaveRetrieveCartUtil/
+7010/dyn/admin/nucleus/att/ecom/shopcore/configuration/CloudCartConfiguration/
+7010/dyn/admin/nucleus/att/ecom/shopcore/configuration/FccConsentManagementConfiguration/
+7010/dyn/admin/nucleus//att/ecom/services/util/CSISoapLogger/
+7010/dyn/admin/nucleus//att/ecom/services/interfaces/csi/CSIEnvironment/
+7020/dyn/admin/nucleus/att/ecom/wbfcuverse/Unified/hub/droplet/UnifiedHubServiceDroplet/
+7020/dyn/admin/nucleus/att/ecom/services/client/CLTService/
+7020/dyn/admin/nucleus/att/ecom/wbfcuverse/helper/ModifyReferralHelper/
+7020/dyn/admin/nucleus//att/ecom/services/interfaces/csi/CSIEnvironment/
+7040/dyn/admin/nucleus/att/ecom/fulfillment/FulfillmentEnvironment/
+7040/dyn/admin/nucleus/att/ecom/unified/fulfillment/oce/OCEEnvironment/
+7140/dyn/admin/nucleus/att/ecom/unified/fulfillment/oce/OCEEnvironment/
+7140/dyn/admin/nucleus/online/b2c/fulfillment/FulfillmentEnvironment/

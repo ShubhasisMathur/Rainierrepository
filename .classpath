@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="conf/" kind="src" path="resources"/>
+	<classpathentry kind="src" path="resources/conf">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.67-windows-x86/apache-tomcat-7.0.67/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.67-windows-x86/apache-tomcat-7.0.67/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.67-windows-x86/apache-tomcat-7.0.67/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.67-windows-x86/apache-tomcat-7.0.67/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.67-windows-x86/apache-tomcat-7.0.67/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/Spring jars/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/ssh-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/sshfactory.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/jstl-1.2/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/standard/standard.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
